@@ -6,8 +6,9 @@
 ##### telegram: [@spykat](https://t.me/spykat)
 ##### e-mail:    ekatakhm@gmail.com
 ##### github:    [@katyaakh](https://github.com/katyaakh)
-##### facebook:              [@spykat](https://www.facebook.com/spykat/)
-##### facebook:
+##### facebook:  [@spykat](https://www.facebook.com/spykat/)
+##### linkedin:	 [@akhmadeeva](https://www.linkedin.com/in/akhmadeeva/)
+
 ## Summary
 
 #### I'm interested in programming since school, where I worked on the game app, while using my first programming language Basic.
