@@ -37,5 +37,9 @@
 ## Education
   * 2009 Ural State University named after M.Gorky, Sociology
 
+  * 2019 CONTENTED, UX design
+  * 2019 scrum-institute.org (Scrum Master Accredited Certificate)
+  * 2015 National Research University 'Higher School of Economics' , New Media School, Marketing and production in digital media
+
 ## English
 #### B1 (Upper-intermediate)
